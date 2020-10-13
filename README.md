@@ -1,4 +1,4 @@
-# GSuite Send Sheet as PDF
+# GSheets Send as PDF
 
 This script adds a menu item and action for emailing the current sheet as a PDF attachment. The script will prompt the user for the recipient's email address. The `from`, `subject`, and `body` email parameters are defined in the code.
 
