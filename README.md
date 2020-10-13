@@ -13,6 +13,7 @@ This script adds a menu item and action for emailing the current sheet as a PDF 
 1. Click **Custom Tools** > **Send this sheet as PDF**
 1. When prompted, click **Review permissions** and **Allow**
    so the script can send email on your behalf. You will only need to do this once.
+   
    > If you get a warning that **This app isn't verified** continue
    > with the verification process by clicking **Advanced** and
    > then scroll down and click the grey text at the bottom that
